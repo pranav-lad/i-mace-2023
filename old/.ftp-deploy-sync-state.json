@@ -1,0 +1,1867 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1654926747679,
+    "data": [
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 190,
+            "hash": "3d53e1746f29a15b98baded0fbc80723d0cc9a13817ff7a26e06886519934791"
+        },
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "folder",
+            "name": "forms"
+        },
+        {
+            "type": "file",
+            "name": "index-2.html",
+            "size": 48524,
+            "hash": "582fd9759e5b5a52eaeb3503961095335eed3d03c43a7ad3e63ae8c165925452"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 132331,
+            "hash": "bcf6321a504074ef800354f9fd6400932eb3f332da5c4997fae53d94c3649452"
+        },
+        {
+            "type": "file",
+            "name": "speaker-details.html",
+            "size": 9174,
+            "hash": "c9b636e59be6cf67522255739c1371b9d6ebbcb4a73e0a58742ae00c77333ae0"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup"
+        },
+        {
+            "type": "file",
+            "name": "testfile",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "folder",
+            "name": "assets/css"
+        },
+        {
+            "type": "folder",
+            "name": "assets/files"
+        },
+        {
+            "type": "folder",
+            "name": "assets/font"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img"
+        },
+        {
+            "type": "folder",
+            "name": "assets/js"
+        },
+        {
+            "type": "folder",
+            "name": "assets/vendor"
+        },
+        {
+            "type": "file",
+            "name": "forms/Readme.txt",
+            "size": 185,
+            "hash": "bd992a6ca73098ac5cdb72e6d3686a3471ba68aaffaaaae49ebdb01b00fa7890"
+        },
+        {
+            "type": "file",
+            "name": "forms/contact.php",
+            "size": 1300,
+            "hash": "f90bdb52196544f2251eac81f06f6f75f47aa27bb4dd79294f850ff095e6a10b"
+        },
+        {
+            "type": "file",
+            "name": "forms/xyz.txt",
+            "size": 1,
+            "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/forms"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/index.html",
+            "size": 48159,
+            "hash": "5fe3c3dee0d3680ac47987017070fe501e52aac0768ef31123eae094e7b88e96"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/conference track.css",
+            "size": 5520,
+            "hash": "2f9d7410f6c4868ad616fba65e5aa4f25f520161672abec934e81ef957ea278a"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/link.css",
+            "size": 122,
+            "hash": "103fc3a7b77d1c758f073b17c557834f3e6da8656af5f52a57682da8a4306327"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/organizing-committee.css",
+            "size": 2065,
+            "hash": "0a5a5725432f8bb54eb6178c6d7131fb10c5f6ea649d0751cde3b721711327ab"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/patron.css",
+            "size": 454,
+            "hash": "67f07cb5bbc5619f3e80f339ff9f645ffba277eb5e63c7137c39b0646aa2e0c3"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/popup.css",
+            "size": 1641,
+            "hash": "2e223fdc4b67137fcf07e11b1102ae85f9fd3365b04003cddb2c4ad01feced90"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/style.css",
+            "size": 33591,
+            "hash": "0c3abab63a104cea833f94fa57660051dc709c6b2920eb3a4a2fbcd3b13af28e"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/team.css",
+            "size": 741,
+            "hash": "235bf5117b643ad8d1bb7edbcd7242b58b26f023da4c726a0a3d9ee2a6fe42a2"
+        },
+        {
+            "type": "file",
+            "name": "assets/files/i-MACE _Second Call of Papers --.pdf",
+            "size": 528086,
+            "hash": "b557513ea0dbfa9bc88500d55ae3280cb71eb9cb3e9acd510d35ddbdf07852eb"
+        },
+        {
+            "type": "file",
+            "name": "assets/files/i-MACE _Second Call of Papers1.pdf",
+            "size": 407474,
+            "hash": "00004f79bd6d556683180e6eb8eea57e9009aaa095fbe2b49ebefad6072710a0"
+        },
+        {
+            "type": "file",
+            "name": "assets/files/i-MACE_Second_Call_of_Papers.pdf",
+            "size": 521233,
+            "hash": "fbba0a2e3034f2cec332fc59869c81d7213fec63f4128528eff8837cb5a63a86"
+        },
+        {
+            "type": "file",
+            "name": "assets/files/i-MACE_Second_Call_of_Papers11.pdf",
+            "size": 528086,
+            "hash": "b557513ea0dbfa9bc88500d55ae3280cb71eb9cb3e9acd510d35ddbdf07852eb"
+        },
+        {
+            "type": "file",
+            "name": "assets/files/i-mace_first.pdf",
+            "size": 513346,
+            "hash": "10d81a1144519b0143ef049e445c847c205605682d13aa07fcd348c02ec024a9"
+        },
+        {
+            "type": "file",
+            "name": "assets/font/MTCORSVA.TTF",
+            "size": 157360,
+            "hash": "a6f6dacb871be365ad93fe1aab09332f768cd2aa35fdfca8e0053a38f5a2662b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/1.jpeg",
+            "size": 208405,
+            "hash": "e85a39f4606a2a294ac7c3ce6cac2e7509a7f108d3a90312ae33bcb9d63a69de"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/2.jpeg",
+            "size": 152485,
+            "hash": "d75c6fe115402584b1bf32bb6e908765042b0dfd119203be1b89d387f2f4bca7"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/2.jpg",
+            "size": 174120,
+            "hash": "8a290ed015956dc3a09ebed995231f86fb070f5a82f63a7cef00fe458ca53406"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/_pcet-logo.jpg",
+            "size": 76880,
+            "hash": "0fca672233afe96b02b261cfd220d8c1a513af721b8634f3883cdb347dbe61db"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/apple-touch-icon.png",
+            "size": 1738,
+            "hash": "66e7252ff9afd2c49ca8fd05f708bc330a42beaf1af7fc2ab6998cb3dc654bda"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/favicon.png",
+            "size": 491,
+            "hash": "8eb9ffc8b36969d4a82d36631fb758c4b7b758de4f64aa5b4889cdf723e5debb"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/gallery"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/headback.png",
+            "size": 91395,
+            "hash": "7ccab6cdf58e83926b0e13c96f0b7dbe9e67e6ab2a669c808413472a67fff150"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/hero-bg.jpg",
+            "size": 876141,
+            "hash": "49a8c9a3e24afbf99524a27dd67d58e617fb21774c8d9da0cfd6b40213572cff"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/hotels"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/logo.png",
+            "size": 4707,
+            "hash": "0e0181089ed35cb9e36f192ff0308478867c822866c048ae0b53cb5e04b18a4d"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/mobile_title.png",
+            "size": 81467,
+            "hash": "40a7f6e99f2c92cf7c6b0760fdf216409c7b5b326de72be74259b27bbd5b047e"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/mobile_title1.png",
+            "size": 153435,
+            "hash": "351b4eae17681419b43defe4a687fd7b5da61f837c1135e0016a3bfe1d43ab5c"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/patrons"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/pccoe-logo.png",
+            "size": 117940,
+            "hash": "9a1c088355062b914ffd27a984811eefcb0e9f5f048e040088776b1b6403d510"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/pccoe-logo_.png",
+            "size": 124571,
+            "hash": "2f969640569001ade1b2a448082fd3e1ef6d377a917714fd810812cbabdb6341"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/pccoe_clg.jpg",
+            "size": 184717,
+            "hash": "bbd6ce391f9b2e87ca641eb343302039965021e182074606d472b6605969cfe5"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/pccoe_singlebuilding.png",
+            "size": 202988,
+            "hash": "d54ebe245279a0561c63fb5f4abf1736cc3ee9deef4658375bd91831e130b716"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/pcet-logo.png",
+            "size": 81521,
+            "hash": "063c248114a105feea0170ee36f6af300f3331ba786d1873a9bfc345062b725c"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/popup"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/professors"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/publications"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/speakers"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/subscribe-bg.jpg",
+            "size": 644608,
+            "hash": "1f29d669a47f20a952e81e4b2f0b0de3709c9960fefe746b30b46e95e4154c67"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/supporters"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/titleback _mobile.png",
+            "size": 303724,
+            "hash": "39a14be4be5ca9cd7310a732ba6f971e15d712a3bf58ec406d26fac201f2d41e"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/titleback.png",
+            "size": 120243,
+            "hash": "b20761d1639648d9e2f8897498d3ac3e7045d46a430e70e783ea34ecd48a9b98"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/titleback1.png",
+            "size": 329592,
+            "hash": "b193b0c86a4efd24366bfe313ef85be9e5b368b413ce80e00a1492e51a64f068"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/user.png",
+            "size": 9338,
+            "hash": "d4a86589b69531dfdc2dd9263e30f7c995ec921269bc9afb6d13b6bb73ca2a77"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/venue-gallery"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/venue-info-bg.jpg",
+            "size": 175768,
+            "hash": "b616d906644c6e1144da8a43603b560fd6968693776ef8e258c604ca36b98860"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/xyz.txt",
+            "size": 1,
+            "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/main.js",
+            "size": 5341,
+            "hash": "e81e193d1bec1bb999e3f772bf6ecf9ff301120da21c083ff40fd22d1b3b4dbc"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/popup.js",
+            "size": 502,
+            "hash": "888ab44d048d39a5bb6e0ec36d3b74b32e3065ca64cabac754621bb495d1621f"
+        },
+        {
+            "type": "folder",
+            "name": "assets/vendor/aos"
+        },
+        {
+            "type": "folder",
+            "name": "assets/vendor/bootstrap"
+        },
+        {
+            "type": "folder",
+            "name": "assets/vendor/bootstrap-icons"
+        },
+        {
+            "type": "folder",
+            "name": "assets/vendor/glightbox"
+        },
+        {
+            "type": "folder",
+            "name": "assets/vendor/php-email-form"
+        },
+        {
+            "type": "folder",
+            "name": "assets/vendor/swiper"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/css"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/img"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/js"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/vendor"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/forms/Readme.txt",
+            "size": 185,
+            "hash": "bd992a6ca73098ac5cdb72e6d3686a3471ba68aaffaaaae49ebdb01b00fa7890"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/forms/contact.php",
+            "size": 1300,
+            "hash": "f90bdb52196544f2251eac81f06f6f75f47aa27bb4dd79294f850ff095e6a10b"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/forms/xyz.txt",
+            "size": 1,
+            "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/gallery/Pune_Palace.jpg",
+            "size": 147742,
+            "hash": "ba5f4d5d5f8dc5bf5899c9becb303a291e2f4d9451512af5774f60ea026cee8d"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/gallery/ganpati.jpg",
+            "size": 303527,
+            "hash": "b6b6988f2c9282c3337028dad04645e7a9593a2b12e319c369fd0cd757a7b33c"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/gallery/imagica.jpg",
+            "size": 114959,
+            "hash": "ae1ec79582806770aa01885a9b64703e9ff37e83ccbb5be3e1f281a3fe225ae2"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/gallery/osho_Ashram1.jpg",
+            "size": 281278,
+            "hash": "c42d623cf06e4d9ffef2a3fac0ad27a4c40d9ddbc69cbabe9beebbed00606f0b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/gallery/shaniwar_wada1.jpg",
+            "size": 238062,
+            "hash": "8a3928a2a3f1344d3d202e30ac2253d1a97ec3150c5f05225b1c25c3a1134cfb"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/gallery/shinde_chatri.jpg",
+            "size": 187317,
+            "hash": "dafa00844b692d9d618bcc05b00cd65830a5fb4128a9550b66b4b94231a56a05"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/gallery/sinhgad_fort.jpg",
+            "size": 290004,
+            "hash": "c8374d3523110e6554ad77a5738b06d6f47bf51b489cb512cb76c127d2a34a98"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/hotels/1.jpg",
+            "size": 176612,
+            "hash": "18f42dd515538fd265ee14dc698b8982c3d0d0dad8ca107af2d699614158ee2f"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/hotels/2.jpg",
+            "size": 207771,
+            "hash": "29ae45e5daef766775d8f82c348e34a378c1571684b16f3d2f66d450aab16ef5"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/hotels/3.jpg",
+            "size": 164509,
+            "hash": "566c24f26f4211d63d9e8f92c318129a0dd38dcade3a11196a3b5cbeeaf3fbb9"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/1.png",
+            "size": 200445,
+            "hash": "2ad6ce1edc8a26c4c48f7b355c025ac638b918e3d7185449585a1ce9817b0954"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/2.png",
+            "size": 184281,
+            "hash": "a6a298b2eb6b0074dd992a465bb7970a7ecec2642ef7541def09a57b3f618ce1"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/3.png",
+            "size": 200823,
+            "hash": "fe42e52aeaa8b7ef4a7a4f527bfbfe5b24574ad9c1c99b28d3abd18428ada7c4"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/4.png",
+            "size": 260479,
+            "hash": "7b753e66bba133bf2abb754b57f3ae28a81265e0559076f740a277673f46d1ff"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/5.png",
+            "size": 200211,
+            "hash": "e3d9757876cd9de53b169846de317106098551b73f863bc930ab1e9350f662a0"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/6.png",
+            "size": 274809,
+            "hash": "2e401ef457ac82db8484526570ec577de4783fabe0d1fad94975130159369cf6"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/7.png",
+            "size": 252857,
+            "hash": "83ea7f9afbe21295b8cddfcc2a2b8d6fdd47a78666194737b116b14a1cdd9129"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/patrons/New folder"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/patrons/cropped"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/popup/flyer2.jpg",
+            "size": 201103,
+            "hash": "9a3a390a53a592866b1454f95f7e8b82164f25e9b8fe186122c95e2c0834bcb9"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/popup/flyer22.jpg",
+            "size": 192208,
+            "hash": "b50076643500bdc853bd317a9032d72dbc5a15cc4cfb5a7b8b640688a6696306"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/professors/1.jpg",
+            "size": 104715,
+            "hash": "5c93291a46f5833d50a9ecaed856c6e27e2a33b88569b094fe683d5813a3bf18"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/professors/2.png",
+            "size": 513510,
+            "hash": "ed429b86158906c9b2a71a5c58f48622d746733b91e7c30027c9fc61050d551e"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/professors/3.png",
+            "size": 252482,
+            "hash": "233b6b9768516c97d97086eca2ef52aafe692d2203047966701d9b645b555646"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/professors/cropped"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/publications/pub_logo1.png",
+            "size": 41433,
+            "hash": "6c53397a4d7af84fb239b577b9794e8428201282940cff6bad5d6c287d76d8ed"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/publications/pub_logo2.png",
+            "size": 43811,
+            "hash": "5f4c35e5c16ffbdccfdb0757ed42cd7a50be600476235fb6325c7186049ba3ef"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/speakers/1.jpg",
+            "size": 44376,
+            "hash": "e34a4b916e9b0cfc3f9f5a5a4b4734a9c177dde6fc16ab62afcbeaabf99ed52e"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/speakers/2.jpg",
+            "size": 49380,
+            "hash": "782a6103c633cada524a1e2d99382e9f9de62c54eb202f61e9aa62af024be2cc"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/speakers/3.jpg",
+            "size": 14278,
+            "hash": "1c9adc088a3470e76bf8056d28533942e8a30edde33a73eb6ffa0193c6f70455"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/speakers/4.jpg",
+            "size": 53251,
+            "hash": "cbe26b268e9b70d251f4461a3ec18a3ce6838a6c5dc0cffb9707d4ac0827ad72"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/speakers/5.jpg",
+            "size": 30301,
+            "hash": "9993258f84ebc3efd23e2f6a62807738c509d1136096fde23f3d2a0814bef390"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/speakers/6.jpg",
+            "size": 16133,
+            "hash": "925bb0de0a9a2ba0bf2789f119f1fe94ddce667afb9e5fbda3b5255a4515c945"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/speakers/bizpage-preview.png",
+            "size": 155420,
+            "hash": "1d79e89c1130f86f9dd697f8fa57bed3a7eff95683f251f2c0cc7a2aa256abe6"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/supporters/1.png",
+            "size": 3994,
+            "hash": "bccc6cee715ec4ac89bbb64be7228347c970f7904099a7b311b490c8deaadbf3"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/supporters/2.png",
+            "size": 2749,
+            "hash": "148921ac557199b49e568a618496cab7c7c1f538b564063cade799283b6dd22c"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/supporters/3.png",
+            "size": 3281,
+            "hash": "7a558b9019140132e821bd1eea23ccc87794e6f694b4944088df8a655458f935"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/supporters/4.png",
+            "size": 2201,
+            "hash": "304b0278c17a96c4d720a31e3bb089fa11585b864bee55b28efbe2429673d94a"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/supporters/5.png",
+            "size": 3748,
+            "hash": "a73bd48897373a7e5083985f240fc4703cb3ac3e87fda4299f60f15fc01c4d6a"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/supporters/6.png",
+            "size": 2150,
+            "hash": "0275e1b1260a08632246e83ce1b005284a95e33249f5b97709315fa955c98925"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/supporters/7.png",
+            "size": 2195,
+            "hash": "9c797ef247107b574290ae6edf85513f6ad1c4ef78971c0b129a8851394c7a92"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/supporters/8.png",
+            "size": 1984,
+            "hash": "ac38cf14f90f1d758d141b77c76bf6e8043ffc3dd559d9c2cd06a71bc613e222"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/venue-gallery/1.jpg",
+            "size": 124351,
+            "hash": "cbaa6ab4a69ddf39d993e7d1c4ae5665af11a1db77e48d5308ad1251c2028599"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/venue-gallery/2.jpg",
+            "size": 47098,
+            "hash": "a992edda7f98738c723e63d7729a7c729f0b81b0c32b4deb430a2eea6786b7c3"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/venue-gallery/3.jpg",
+            "size": 157926,
+            "hash": "2a14716f7a57fb87c7770ef41e0773ff4e75159328118b5d6befb332bd647b55"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/venue-gallery/4.jpg",
+            "size": 101273,
+            "hash": "8c5aa63ce0a91aac76062b7229dae30f9e4b727f7834c74a41a3c90c1eb60b5e"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/venue-gallery/5.jpg",
+            "size": 152944,
+            "hash": "206d98498c952d9b4ab85bdf3eb63b68bb3b1f001849181767375f3e44fcbaca"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/venue-gallery/6.jpg",
+            "size": 134709,
+            "hash": "1691741d1161e37556fddc498d1cc82fca632b6359eb6f09cad07306c379263a"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/venue-gallery/7.jpg",
+            "size": 109640,
+            "hash": "132112dbe9ddd6294e2e3c75aed53bbc171accd155e7f66c36f147813aca839e"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/venue-gallery/8.jpg",
+            "size": 57275,
+            "hash": "a91023d1c45462bddf0042090ce8293cf08df7d6578e51d0406c0a17b3de8602"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/aos/aos.css",
+            "size": 26053,
+            "hash": "1aa8845fd06e475aefe733d4e55b36a92fcd487975049c8172341827ac9cc03e"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/aos/aos.js",
+            "size": 14690,
+            "hash": "a5005b2e414770fd5ccb40bc221a12771966d02b5c1f9c89da48bd8e3811d377"
+        },
+        {
+            "type": "folder",
+            "name": "assets/vendor/bootstrap/css"
+        },
+        {
+            "type": "folder",
+            "name": "assets/vendor/bootstrap/js"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap-icons/bootstrap-icons.css",
+            "size": 65696,
+            "hash": "3c325075337b768950583012228055ae392e384688d77ec5235e6ca88dcec6ef"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap-icons/bootstrap-icons.json",
+            "size": 34982,
+            "hash": "724592116be0296024c9612728dbb34ac9f910d2ff9a9ba651760ea71b7c8fc1"
+        },
+        {
+            "type": "folder",
+            "name": "assets/vendor/bootstrap-icons/fonts"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap-icons/index.html",
+            "size": 165403,
+            "hash": "c097e0cc79eacefd25904f548093fc735a52b2d566bef48fec0d56d36a0f4525"
+        },
+        {
+            "type": "folder",
+            "name": "assets/vendor/glightbox/css"
+        },
+        {
+            "type": "folder",
+            "name": "assets/vendor/glightbox/js"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/swiper/swiper-bundle.min.css",
+            "size": 15561,
+            "hash": "0ad07694b2fecf495980fe9e2c7c17e5609b4b51028604664235822d37a400ab"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/swiper/swiper-bundle.min.js",
+            "size": 135167,
+            "hash": "cadd41d57d03baa9fee12da98286e32ffcfc64a05453d4decd672a58aa9a4339"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/css/style.css",
+            "size": 28373,
+            "hash": "1297a492895def1c46e2c7dc7cc5a198c68022b991000eee872b142f0a556435"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/about-bg.jpg",
+            "size": 174120,
+            "hash": "8a290ed015956dc3a09ebed995231f86fb070f5a82f63a7cef00fe458ca53406"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/apple-touch-icon.png",
+            "size": 1738,
+            "hash": "66e7252ff9afd2c49ca8fd05f708bc330a42beaf1af7fc2ab6998cb3dc654bda"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/favicon.png",
+            "size": 491,
+            "hash": "8eb9ffc8b36969d4a82d36631fb758c4b7b758de4f64aa5b4889cdf723e5debb"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/img/gallery"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/hero-bg.jpg",
+            "size": 876141,
+            "hash": "49a8c9a3e24afbf99524a27dd67d58e617fb21774c8d9da0cfd6b40213572cff"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/img/hotels"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/logo.png",
+            "size": 4707,
+            "hash": "0e0181089ed35cb9e36f192ff0308478867c822866c048ae0b53cb5e04b18a4d"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/img/speakers"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/subscribe-bg.jpg",
+            "size": 644608,
+            "hash": "1f29d669a47f20a952e81e4b2f0b0de3709c9960fefe746b30b46e95e4154c67"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/img/supporters"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/img/venue-gallery"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/venue-info-bg.jpg",
+            "size": 175768,
+            "hash": "b616d906644c6e1144da8a43603b560fd6968693776ef8e258c604ca36b98860"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/xyz.txt",
+            "size": 1,
+            "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/php-email-form/validate.js",
+            "size": 2646,
+            "hash": "b80e5a78eb469d0d5b2da30363037d34c41f0d1d383d2107931e621a2ee60b6a"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/js/main.js",
+            "size": 5341,
+            "hash": "e81e193d1bec1bb999e3f772bf6ecf9ff301120da21c083ff40fd22d1b3b4dbc"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/vendor/aos"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/vendor/bootstrap"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/vendor/bootstrap-icons"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/vendor/glightbox"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/vendor/php-email-form"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/vendor/swiper"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/New folder/1.jpg",
+            "size": 2240230,
+            "hash": "f6fd422dacf1fe49c661a975d80c763a20ad8e6e93430972aa925a5164b9de33"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/New folder/2.jpg",
+            "size": 2165192,
+            "hash": "7a52b28b46b55dda7651a31e9ab0729ed5d38416bc32788f1cff44eccadb3040"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/New folder/3.jpg",
+            "size": 2262886,
+            "hash": "0d4e9077aea371df9ef990489092ada1bfd2c9438b1902d2e51a39cfb7f0a2d4"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/New folder/4.jpg",
+            "size": 2318598,
+            "hash": "a3a6c562f97b3a912d57f293661f108fa0574d45b4f424cad4ae0acc238bc45b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/New folder/5.jpg",
+            "size": 2402840,
+            "hash": "8969aff86f7a6f9bd4fa74b7c6a9494934aa94e7d1e32f8858c4309a75a6fab9"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/New folder/6.jpg",
+            "size": 157235,
+            "hash": "8e865fd9245360ad1345631d3ef484c4ff014d8871444ea9bddc1610da754fce"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/New folder/7.jpg",
+            "size": 40110,
+            "hash": "40c89aa68d3632fcb331c9109e83fa0fab037e4b9c0533ac08c3a5e6a693b37f"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/cropped/1.jpg",
+            "size": 147889,
+            "hash": "12ecb3d3d2742e63fa8c30f2f7c68028c4fa756c7326155c01835466b7a0f3e5"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/cropped/2.jpg",
+            "size": 145085,
+            "hash": "6a2ab291593a35f657d9a1e34569883ef03eeea37ae9397bc2587e42dd19791d"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/cropped/3.jpg",
+            "size": 160810,
+            "hash": "eec45fec910c3e9bdf2f72be2a0443b9e450bd3be8366ddfee4dfc46c73d1d6d"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/cropped/4.jpg",
+            "size": 191284,
+            "hash": "983a3d4884e0fabc31e834a93127fba25e448e2e59deee4cb27e6e725b9cf3df"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/cropped/5.jpg",
+            "size": 164607,
+            "hash": "5e1ab6cb2df114c90eefed25d3b94a45071757b6397ce06ab7af045b81ef5c02"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/cropped/7.jpg",
+            "size": 40110,
+            "hash": "40c89aa68d3632fcb331c9109e83fa0fab037e4b9c0533ac08c3a5e6a693b37f"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/patrons/cropped/6.jpg",
+            "size": 157235,
+            "hash": "8e865fd9245360ad1345631d3ef484c4ff014d8871444ea9bddc1610da754fce"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/professors/cropped/1.jpg",
+            "size": 27452,
+            "hash": "55d2f37e0812751c3c4dd932ce572ec7806cc0f3166bf05b49a5a0856132d33e"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/professors/cropped/2.png",
+            "size": 266885,
+            "hash": "192ffabfe9943306b5e3a135c3f857de2094043507651a8ebc5b1b604e240c2f"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/professors/cropped/3.png",
+            "size": 148238,
+            "hash": "bcf45ff393b955eff6682e2040006cf346035654c8a45edd1b9b4b4d6683defc"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-grid.css.map",
+            "size": 201507,
+            "hash": "ce402208176ca0d803d4344da5fe5d88c60dc36f29b2a9f92c25d60e762444d2"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-grid.min.css",
+            "size": 52805,
+            "hash": "9d3d30ce655803b9daf4ab200ecb5e4c1fd7dfd6aa96e501c8cbbbd6ed4cf7f9"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-grid.css",
+            "size": 72279,
+            "hash": "5b13f7d878190a9527f89897355b537ed51526f587060e376dea3d3125328579"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+            "size": 122306,
+            "hash": "e21077cf12bc9f40996d5de0f0def0baf3be335316cbff078e4be737180c19ff"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-grid.rtl.css",
+            "size": 72353,
+            "hash": "c19ebdad5ba031e1a084c7bb7485b4661862eb5ad105be11192c0a6cc9ce82a0"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
+            "size": 201511,
+            "hash": "40d0e88d8fade00c1a4350136fd57507874a53ac30f7850cd5435dee8ddfe723"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
+            "size": 52880,
+            "hash": "4bf379c5964832340958a592b5ed3c92f6df857fa3b6809b0f3e965f9e6591f1"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+            "size": 122383,
+            "hash": "5fdcb0e71c3c1f22d7d7d7710ebd61dad9ecc1067d8697f5fb5b3c7f8da06d92"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-reboot.css",
+            "size": 7578,
+            "hash": "3a9916a4dd46ad19b035c3036a9fe910d8e30d40c3f72cecec456170774e595f"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-reboot.css.map",
+            "size": 109619,
+            "hash": "2a0ede60578eae49c59535c6a1c2327d465495b4427fe360eee0d8603bae77d7"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-reboot.min.css",
+            "size": 6120,
+            "hash": "a0290ce3ae4e228c542b11afac848940b2f71b386276b4d7501ddb8807f08f5a"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+            "size": 39730,
+            "hash": "a42c30953d677073dc371d4a2b468c558e798d5100a456f29c84485c83b689a6"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
+            "size": 7555,
+            "hash": "f0686b666726519111576d5bfb5e802cc6c06fdfb9378acc2311e262e17c06f4"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
+            "size": 109632,
+            "hash": "83ca2f6bca416127c27dddf3e4a166b277feffeed088ca5eaf4e35b8c49d4626"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
+            "size": 6192,
+            "hash": "4c0bbee5d7dc84694debdc18d10b60174bc490693e1a1332654213e86f5d84e0"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+            "size": 47717,
+            "hash": "6142e36670f7113e278a34671d65ed60cca4a53c7cd10c08f82d304250b45085"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-utilities.css",
+            "size": 71560,
+            "hash": "07f2d921df48a71153fd4862ed807350bb8bc059ff837b3341424df2f6103270"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-utilities.css.map",
+            "size": 192717,
+            "hash": "0220201a49f24cada65c941beac9016ed2918c560a30b2800717840c84748e80"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-utilities.min.css",
+            "size": 53455,
+            "hash": "16831bed4a69256f2f3e13186943d01071004451840d1dbe2551945b67c30da5"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
+            "size": 111849,
+            "hash": "4965880e5043db7adc629703e91253f9418337f0b2088510aaf40a330c015dd1"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
+            "size": 71427,
+            "hash": "c091847a61593c9a9e0eb751231eb22a3b14c90b2f98e8c5a4453535d03c17b8"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
+            "size": 192660,
+            "hash": "2b8273a394fecd60b103bc440e81d56001c414f33b4af3d3c4b2ce8a91b6c1bc"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
+            "size": 53383,
+            "hash": "e2342a8278b94f7bb77c12199e6bb471f8df7ed9e628407f089f6a2f7eaae94b"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+            "size": 111684,
+            "hash": "19f9a59c07edbf2821dc74f5250e3824ce5668844abd070bd6da692438990ccd"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap.css",
+            "size": 205506,
+            "hash": "6fd79dc5f15c63602e33dc378283f8cd89f512b9360e9844d6da0b445292a6f0"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap.css.map",
+            "size": 538070,
+            "hash": "ceab8b697d0c284288f71b365f1061f1e6a88f117bb599a19922cdd7bbb6c666"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap.min.css",
+            "size": 163891,
+            "hash": "bd558b6b0fa8256504d6f1796203c55c540013d7d4021f79241476f3ac49dac1"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap.min.css.map",
+            "size": 451483,
+            "hash": "5500b411621410ad17b711f43b2ac127d96db8956a0ccffc5435984dfaf48dbb"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap.rtl.css",
+            "size": 205173,
+            "hash": "88965a59bd3bdbf2736e4edf521ac77111f3502cdeda363e4e2e5756f3d40958"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap.rtl.css.map",
+            "size": 537984,
+            "hash": "b975a5938a1f0fad96b3a45510eea991ce4a9a467b31fe73681238788eaf22ac"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap.rtl.min.css",
+            "size": 163996,
+            "hash": "b62111b09e92d46a7b500b8698376b4f5932a48e22b6388c6e1d9fa0bd2d63a1"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
+            "size": 663565,
+            "hash": "5d32d13431061854fe24b613256af3d3188c99b66ae9e3dd98000659a74d10e9"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/js/bootstrap.bundle.js",
+            "size": 209719,
+            "hash": "36d81f12b17071ac88d2322237353a87f45870fbc1478f0899db9246620dced7"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/js/bootstrap.bundle.js.map",
+            "size": 427637,
+            "hash": "dc4f58bd30e20c4980238acf576a193567a2db345eb317dd65e5d4505ca81c8c"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/js/bootstrap.bundle.min.js",
+            "size": 78129,
+            "hash": "c8b344ccb7e63d18ef422bfd771a348bfba32a4d8729df1cebf91ced39728d94"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+            "size": 331017,
+            "hash": "a1265b77b4fef2bb153de4535e6c1438c58effcbd08a96209ae1ccaed6b91bf2"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/js/bootstrap.esm.js",
+            "size": 139773,
+            "hash": "e4f5a2afc8c7258577d4a1f1d5b83371a4d5a2113eb8e867f611fad829fbf533"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/js/bootstrap.esm.js.map",
+            "size": 289576,
+            "hash": "3efc382964bb71cf37b5868f8e29202a0629f1d95cb74d4d56c3c54954ffe7ac"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/js/bootstrap.esm.min.js",
+            "size": 72614,
+            "hash": "3c18d415f9d6b619ff531cc172fbf3d1bd627b6381bc71c5dcc5bbd31812d5bb"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/js/bootstrap.esm.min.js.map",
+            "size": 223558,
+            "hash": "1b01670710333b8acb3b99da95905dbe52ca85928c5614849b40a8a2dc6e4333"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/js/bootstrap.js",
+            "size": 148892,
+            "hash": "e61d27676286e85c62513cce36a991c3ae2e4ef89d93c71b0bef73f0d0d7164e"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/js/bootstrap.js.map",
+            "size": 290776,
+            "hash": "ea6bf7c0238f0b765ad7366efc6a483460e8c5fdb5ada1e5efeee86c4f8eb528"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/js/bootstrap.min.js",
+            "size": 59219,
+            "hash": "7e9276746ee6d70a75d8362ddd8e20aa1ce8a008c8e39c66a9e05b758f636d01"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap/js/bootstrap.min.js.map",
+            "size": 219918,
+            "hash": "98eae50a38ad5968de2b2b5de0ee360dc5bf8d8ccd8bfb7da117f16f0b57d08c"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
+            "size": 120468,
+            "hash": "c3ae486bde8dd103f205800f2a87c178cb8838833d216a3ce70741c07cdf6233"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
+            "size": 90528,
+            "hash": "76506e128f2b47b7179f5037bd885a1674455ffeb6b5093cdb4c7eefbf436ce8"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/glightbox/css/glightbox.css",
+            "size": 17428,
+            "hash": "4b6a1e369781837f03573ece9d345b52698d9241957ea81aef975249fb3fb8aa"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/glightbox/css/glightbox.min.css",
+            "size": 13785,
+            "hash": "9c300b6fbfe6d373e1f53b2f0d33cf9df86d9310cc60531ad231cee97aca2bf0"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/glightbox/js/glightbox.js",
+            "size": 110188,
+            "hash": "0fba371ae8df71329df6aada63845f9727a11c0b9c9fda130a864bbc814fbe5c"
+        },
+        {
+            "type": "file",
+            "name": "assets/vendor/glightbox/js/glightbox.min.js",
+            "size": 56222,
+            "hash": "267ab4a5ea85c601950cdb29b6e278c024b3e1be38d2ba27d2c39523c2e34741"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/gallery/1.jpg",
+            "size": 85253,
+            "hash": "76a0f797417da24b739eb49a70e785a9486861b3d106636cf00e64bbe0190a16"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/gallery/2.jpg",
+            "size": 107817,
+            "hash": "34e3d05ae232154a9b775b02ba5766d328be47f6e2b03cd2000dd04c526099c6"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/gallery/3.jpg",
+            "size": 182158,
+            "hash": "05ce83644c300c3a2b971e83c7f882ef44e2dbaebfeb423f049fb2c696e874dc"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/gallery/4.jpg",
+            "size": 112256,
+            "hash": "1dc43a161f84441e1403bf96cfe2f6e5f422bb69d9f079c328f50645cda7b48e"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/gallery/5.jpg",
+            "size": 127200,
+            "hash": "638657794457a2799d35edee7ec304c483ce64789bb4d23fb3eb8fc08102051c"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/gallery/6.jpg",
+            "size": 57440,
+            "hash": "3bf45c8073f4086f96207001031857d524cd5efc4532c0982f52f30e788db1e0"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/gallery/7.jpg",
+            "size": 64459,
+            "hash": "0ff1650e298a2e2e383452766cf8a2e6d072c03fecfa724cee63f484abf62483"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/gallery/8.jpg",
+            "size": 88287,
+            "hash": "2edbd4330cff998ee4c0e5d5857a6187bbb62aaa1b4233f65d52922e36731246"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/hotels/1.jpg",
+            "size": 176612,
+            "hash": "18f42dd515538fd265ee14dc698b8982c3d0d0dad8ca107af2d699614158ee2f"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/hotels/2.jpg",
+            "size": 207771,
+            "hash": "29ae45e5daef766775d8f82c348e34a378c1571684b16f3d2f66d450aab16ef5"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/hotels/3.jpg",
+            "size": 164509,
+            "hash": "566c24f26f4211d63d9e8f92c318129a0dd38dcade3a11196a3b5cbeeaf3fbb9"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/speakers/1.jpg",
+            "size": 44376,
+            "hash": "e34a4b916e9b0cfc3f9f5a5a4b4734a9c177dde6fc16ab62afcbeaabf99ed52e"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/speakers/2.jpg",
+            "size": 49380,
+            "hash": "782a6103c633cada524a1e2d99382e9f9de62c54eb202f61e9aa62af024be2cc"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/speakers/3.jpg",
+            "size": 14278,
+            "hash": "1c9adc088a3470e76bf8056d28533942e8a30edde33a73eb6ffa0193c6f70455"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/speakers/4.jpg",
+            "size": 53251,
+            "hash": "cbe26b268e9b70d251f4461a3ec18a3ce6838a6c5dc0cffb9707d4ac0827ad72"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/speakers/5.jpg",
+            "size": 30301,
+            "hash": "9993258f84ebc3efd23e2f6a62807738c509d1136096fde23f3d2a0814bef390"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/speakers/6.jpg",
+            "size": 16133,
+            "hash": "925bb0de0a9a2ba0bf2789f119f1fe94ddce667afb9e5fbda3b5255a4515c945"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/speakers/bizpage-preview.png",
+            "size": 155420,
+            "hash": "1d79e89c1130f86f9dd697f8fa57bed3a7eff95683f251f2c0cc7a2aa256abe6"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/supporters/1.png",
+            "size": 3994,
+            "hash": "bccc6cee715ec4ac89bbb64be7228347c970f7904099a7b311b490c8deaadbf3"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/supporters/2.png",
+            "size": 2749,
+            "hash": "148921ac557199b49e568a618496cab7c7c1f538b564063cade799283b6dd22c"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/supporters/3.png",
+            "size": 3281,
+            "hash": "7a558b9019140132e821bd1eea23ccc87794e6f694b4944088df8a655458f935"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/supporters/4.png",
+            "size": 2201,
+            "hash": "304b0278c17a96c4d720a31e3bb089fa11585b864bee55b28efbe2429673d94a"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/supporters/5.png",
+            "size": 3748,
+            "hash": "a73bd48897373a7e5083985f240fc4703cb3ac3e87fda4299f60f15fc01c4d6a"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/supporters/6.png",
+            "size": 2150,
+            "hash": "0275e1b1260a08632246e83ce1b005284a95e33249f5b97709315fa955c98925"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/supporters/7.png",
+            "size": 2195,
+            "hash": "9c797ef247107b574290ae6edf85513f6ad1c4ef78971c0b129a8851394c7a92"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/supporters/8.png",
+            "size": 1984,
+            "hash": "ac38cf14f90f1d758d141b77c76bf6e8043ffc3dd559d9c2cd06a71bc613e222"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/venue-gallery/1.jpg",
+            "size": 124351,
+            "hash": "cbaa6ab4a69ddf39d993e7d1c4ae5665af11a1db77e48d5308ad1251c2028599"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/venue-gallery/2.jpg",
+            "size": 47098,
+            "hash": "a992edda7f98738c723e63d7729a7c729f0b81b0c32b4deb430a2eea6786b7c3"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/venue-gallery/3.jpg",
+            "size": 157926,
+            "hash": "2a14716f7a57fb87c7770ef41e0773ff4e75159328118b5d6befb332bd647b55"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/venue-gallery/4.jpg",
+            "size": 101273,
+            "hash": "8c5aa63ce0a91aac76062b7229dae30f9e4b727f7834c74a41a3c90c1eb60b5e"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/venue-gallery/5.jpg",
+            "size": 152944,
+            "hash": "206d98498c952d9b4ab85bdf3eb63b68bb3b1f001849181767375f3e44fcbaca"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/venue-gallery/6.jpg",
+            "size": 134709,
+            "hash": "1691741d1161e37556fddc498d1cc82fca632b6359eb6f09cad07306c379263a"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/venue-gallery/7.jpg",
+            "size": 109640,
+            "hash": "132112dbe9ddd6294e2e3c75aed53bbc171accd155e7f66c36f147813aca839e"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/img/venue-gallery/8.jpg",
+            "size": 57275,
+            "hash": "a91023d1c45462bddf0042090ce8293cf08df7d6578e51d0406c0a17b3de8602"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/aos/aos.css",
+            "size": 26053,
+            "hash": "1aa8845fd06e475aefe733d4e55b36a92fcd487975049c8172341827ac9cc03e"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/aos/aos.js",
+            "size": 14690,
+            "hash": "a5005b2e414770fd5ccb40bc221a12771966d02b5c1f9c89da48bd8e3811d377"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/vendor/bootstrap/css"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/vendor/bootstrap/js"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap-icons/bootstrap-icons.css",
+            "size": 65696,
+            "hash": "3c325075337b768950583012228055ae392e384688d77ec5235e6ca88dcec6ef"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap-icons/bootstrap-icons.json",
+            "size": 34982,
+            "hash": "724592116be0296024c9612728dbb34ac9f910d2ff9a9ba651760ea71b7c8fc1"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/vendor/bootstrap-icons/fonts"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap-icons/index.html",
+            "size": 165403,
+            "hash": "c097e0cc79eacefd25904f548093fc735a52b2d566bef48fec0d56d36a0f4525"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/vendor/glightbox/css"
+        },
+        {
+            "type": "folder",
+            "name": "template_backup/assets/vendor/glightbox/js"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/php-email-form/validate.js",
+            "size": 2646,
+            "hash": "b80e5a78eb469d0d5b2da30363037d34c41f0d1d383d2107931e621a2ee60b6a"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/swiper/swiper-bundle.min.css",
+            "size": 15561,
+            "hash": "0ad07694b2fecf495980fe9e2c7c17e5609b4b51028604664235822d37a400ab"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/swiper/swiper-bundle.min.js",
+            "size": 135167,
+            "hash": "cadd41d57d03baa9fee12da98286e32ffcfc64a05453d4decd672a58aa9a4339"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-grid.css",
+            "size": 72279,
+            "hash": "5b13f7d878190a9527f89897355b537ed51526f587060e376dea3d3125328579"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-grid.css.map",
+            "size": 201507,
+            "hash": "ce402208176ca0d803d4344da5fe5d88c60dc36f29b2a9f92c25d60e762444d2"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-grid.min.css",
+            "size": 52805,
+            "hash": "9d3d30ce655803b9daf4ab200ecb5e4c1fd7dfd6aa96e501c8cbbbd6ed4cf7f9"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+            "size": 122306,
+            "hash": "e21077cf12bc9f40996d5de0f0def0baf3be335316cbff078e4be737180c19ff"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css",
+            "size": 72353,
+            "hash": "c19ebdad5ba031e1a084c7bb7485b4661862eb5ad105be11192c0a6cc9ce82a0"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
+            "size": 201511,
+            "hash": "40d0e88d8fade00c1a4350136fd57507874a53ac30f7850cd5435dee8ddfe723"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
+            "size": 52880,
+            "hash": "4bf379c5964832340958a592b5ed3c92f6df857fa3b6809b0f3e965f9e6591f1"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-reboot.css",
+            "size": 7578,
+            "hash": "3a9916a4dd46ad19b035c3036a9fe910d8e30d40c3f72cecec456170774e595f"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-reboot.css.map",
+            "size": 109619,
+            "hash": "2a0ede60578eae49c59535c6a1c2327d465495b4427fe360eee0d8603bae77d7"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+            "size": 122383,
+            "hash": "5fdcb0e71c3c1f22d7d7d7710ebd61dad9ecc1067d8697f5fb5b3c7f8da06d92"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-reboot.min.css",
+            "size": 6120,
+            "hash": "a0290ce3ae4e228c542b11afac848940b2f71b386276b4d7501ddb8807f08f5a"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+            "size": 39730,
+            "hash": "a42c30953d677073dc371d4a2b468c558e798d5100a456f29c84485c83b689a6"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
+            "size": 7555,
+            "hash": "f0686b666726519111576d5bfb5e802cc6c06fdfb9378acc2311e262e17c06f4"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
+            "size": 109632,
+            "hash": "83ca2f6bca416127c27dddf3e4a166b277feffeed088ca5eaf4e35b8c49d4626"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
+            "size": 6192,
+            "hash": "4c0bbee5d7dc84694debdc18d10b60174bc490693e1a1332654213e86f5d84e0"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+            "size": 47717,
+            "hash": "6142e36670f7113e278a34671d65ed60cca4a53c7cd10c08f82d304250b45085"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-utilities.css",
+            "size": 71560,
+            "hash": "07f2d921df48a71153fd4862ed807350bb8bc059ff837b3341424df2f6103270"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-utilities.css.map",
+            "size": 192717,
+            "hash": "0220201a49f24cada65c941beac9016ed2918c560a30b2800717840c84748e80"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-utilities.min.css",
+            "size": 53455,
+            "hash": "16831bed4a69256f2f3e13186943d01071004451840d1dbe2551945b67c30da5"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
+            "size": 111849,
+            "hash": "4965880e5043db7adc629703e91253f9418337f0b2088510aaf40a330c015dd1"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
+            "size": 71427,
+            "hash": "c091847a61593c9a9e0eb751231eb22a3b14c90b2f98e8c5a4453535d03c17b8"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
+            "size": 192660,
+            "hash": "2b8273a394fecd60b103bc440e81d56001c414f33b4af3d3c4b2ce8a91b6c1bc"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
+            "size": 53383,
+            "hash": "e2342a8278b94f7bb77c12199e6bb471f8df7ed9e628407f089f6a2f7eaae94b"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+            "size": 111684,
+            "hash": "19f9a59c07edbf2821dc74f5250e3824ce5668844abd070bd6da692438990ccd"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap.css",
+            "size": 205506,
+            "hash": "6fd79dc5f15c63602e33dc378283f8cd89f512b9360e9844d6da0b445292a6f0"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap.css.map",
+            "size": 538070,
+            "hash": "ceab8b697d0c284288f71b365f1061f1e6a88f117bb599a19922cdd7bbb6c666"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap.min.css",
+            "size": 163891,
+            "hash": "bd558b6b0fa8256504d6f1796203c55c540013d7d4021f79241476f3ac49dac1"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap.min.css.map",
+            "size": 451483,
+            "hash": "5500b411621410ad17b711f43b2ac127d96db8956a0ccffc5435984dfaf48dbb"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap.rtl.css",
+            "size": 205173,
+            "hash": "88965a59bd3bdbf2736e4edf521ac77111f3502cdeda363e4e2e5756f3d40958"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap.rtl.css.map",
+            "size": 537984,
+            "hash": "b975a5938a1f0fad96b3a45510eea991ce4a9a467b31fe73681238788eaf22ac"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap.rtl.min.css",
+            "size": 163996,
+            "hash": "b62111b09e92d46a7b500b8698376b4f5932a48e22b6388c6e1d9fa0bd2d63a1"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
+            "size": 663565,
+            "hash": "5d32d13431061854fe24b613256af3d3188c99b66ae9e3dd98000659a74d10e9"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/js/bootstrap.bundle.js",
+            "size": 209719,
+            "hash": "36d81f12b17071ac88d2322237353a87f45870fbc1478f0899db9246620dced7"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/js/bootstrap.bundle.js.map",
+            "size": 427637,
+            "hash": "dc4f58bd30e20c4980238acf576a193567a2db345eb317dd65e5d4505ca81c8c"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/js/bootstrap.bundle.min.js",
+            "size": 78129,
+            "hash": "c8b344ccb7e63d18ef422bfd771a348bfba32a4d8729df1cebf91ced39728d94"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+            "size": 331017,
+            "hash": "a1265b77b4fef2bb153de4535e6c1438c58effcbd08a96209ae1ccaed6b91bf2"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/js/bootstrap.esm.js",
+            "size": 139773,
+            "hash": "e4f5a2afc8c7258577d4a1f1d5b83371a4d5a2113eb8e867f611fad829fbf533"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/js/bootstrap.esm.js.map",
+            "size": 289576,
+            "hash": "3efc382964bb71cf37b5868f8e29202a0629f1d95cb74d4d56c3c54954ffe7ac"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/js/bootstrap.esm.min.js",
+            "size": 72614,
+            "hash": "3c18d415f9d6b619ff531cc172fbf3d1bd627b6381bc71c5dcc5bbd31812d5bb"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map",
+            "size": 223558,
+            "hash": "1b01670710333b8acb3b99da95905dbe52ca85928c5614849b40a8a2dc6e4333"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/js/bootstrap.js",
+            "size": 148892,
+            "hash": "e61d27676286e85c62513cce36a991c3ae2e4ef89d93c71b0bef73f0d0d7164e"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/js/bootstrap.js.map",
+            "size": 290776,
+            "hash": "ea6bf7c0238f0b765ad7366efc6a483460e8c5fdb5ada1e5efeee86c4f8eb528"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/js/bootstrap.min.js",
+            "size": 59219,
+            "hash": "7e9276746ee6d70a75d8362ddd8e20aa1ce8a008c8e39c66a9e05b758f636d01"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap/js/bootstrap.min.js.map",
+            "size": 219918,
+            "hash": "98eae50a38ad5968de2b2b5de0ee360dc5bf8d8ccd8bfb7da117f16f0b57d08c"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
+            "size": 120468,
+            "hash": "c3ae486bde8dd103f205800f2a87c178cb8838833d216a3ce70741c07cdf6233"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
+            "size": 90528,
+            "hash": "76506e128f2b47b7179f5037bd885a1674455ffeb6b5093cdb4c7eefbf436ce8"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/glightbox/css/glightbox.css",
+            "size": 17428,
+            "hash": "4b6a1e369781837f03573ece9d345b52698d9241957ea81aef975249fb3fb8aa"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/glightbox/css/glightbox.min.css",
+            "size": 13785,
+            "hash": "9c300b6fbfe6d373e1f53b2f0d33cf9df86d9310cc60531ad231cee97aca2bf0"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/glightbox/js/glightbox.js",
+            "size": 110188,
+            "hash": "0fba371ae8df71329df6aada63845f9727a11c0b9c9fda130a864bbc814fbe5c"
+        },
+        {
+            "type": "file",
+            "name": "template_backup/assets/vendor/glightbox/js/glightbox.min.js",
+            "size": 56222,
+            "hash": "267ab4a5ea85c601950cdb29b6e278c024b3e1be38d2ba27d2c39523c2e34741"
+        }
+    ]
+}
